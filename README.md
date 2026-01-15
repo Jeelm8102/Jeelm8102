@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React, JavaScript, CSS, Business Development**
 
-- 📫 How to reach me **jeelmaheshwari821@gmail.com**
+- 📫 How to reach me **er.jeelmaheshwari@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
